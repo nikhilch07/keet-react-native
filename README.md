@@ -1,0 +1,1 @@
+this is a react native project created for potti
